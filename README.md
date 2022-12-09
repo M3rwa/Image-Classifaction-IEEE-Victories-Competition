@@ -1,7 +1,7 @@
 # Image-Classifaction-IEEE-Victories-Competition
 
 
-● 🥉 The third place over 10 teams in the competition of IEEE Victoris 1.0 in the Data Science Track● 🥉 The third place over 10 teams in the competition of IEEE Victoris 1.0 in the Data Science Track
+● My team got 🥉 the third place over 10 teams in the competition of IEEE Victoris 1.0 in the Data Science Track● 🥉 The third place over 10 teams in the competition of IEEE Victoris 1.0 in the Data Science Track
 
 Issued by IEEE Mansoura Student Branch Sep 2022
 
